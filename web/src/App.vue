@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <Page />
-    
     <Chat />
   </div>
 </template>

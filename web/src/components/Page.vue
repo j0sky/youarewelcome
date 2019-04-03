@@ -44,7 +44,7 @@ export default {
   name: 'Page',
   components: {
     Todo
-  },
+  }
 }
 </script>
 
